@@ -11,7 +11,7 @@ To use this template for your own project, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine to begin your own project.
    
    ```
-   git clone https://github.com/Thrakal/Unity-Core2D-Template-v2022.3.21f.git
+   git clone https://github.com/Thrakal/Unity-Core2D-Template-v6000.0.40f1.git
    ```
 
 2. **Open in Unity**: Launch Unity Hub and add the cloned project directory. Select the appropriate Unity version (should be the same or newer than the version this template was created with) and open the project.
